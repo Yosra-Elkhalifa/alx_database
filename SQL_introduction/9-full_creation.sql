@@ -1,7 +1,7 @@
 -- a script that creates a table second_table in the database hbtn_0c_0 and add multiples rows
 
 -- create table 
-CREATE TABLE IF NOT EXISTS second_table (id INT, name VARCHAR(256) , score INT); 
+CREATE TABLE IF NOT EXISTS second_table (id int, name varchar(256) , score int); 
 
 -- Adding multiple rows to created table 
 
